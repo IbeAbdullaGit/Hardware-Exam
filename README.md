@@ -15,3 +15,7 @@ The same STL file is used, but I have included it inside the Assembly folder.
 The Assembly technical drawing just include the controller that was made, and includes the part list.
 
 # TinkerCad
+
+The simulation shows a hypothetical when the controller moves, the led will light up. With how minimal TinkerCad is, I chose to do that with a button instead, and controls by how lightly or strongly you tap your mouse. To do this I had to add a two resistors to the breadboard, and wire the circuits in a way where the voltage will reach minimally to the button. The wiring helps achieves this, by also setting it up from the ends of the breadboard with neagative and positive voltage. When the button is lightly tapped both leds will light up but with a lot of fade, if tapped strongly and held both leds will be lit.
+
+The link, recording and screenshot will be provided in the TinkerCad folder.
