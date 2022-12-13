@@ -1,4 +1,4 @@
-# Hardware-Exam - Abdalla Mohamed 100795120 ODD
+# Hardware-Exam - Abdalla Mohamed 100795120 Odd
 
 # Components
 
